@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-form/static/css/main.3816f81e.css",
+    "main.js": "/React-form/static/js/main.4adc7a4b.js",
+    "static/media/abstract-gc21ded276_1920.jpg": "/React-form/static/media/abstract-gc21ded276_1920.205ace99a20755110443.jpg",
+    "static/media/men.png": "/React-form/static/media/men.d2d7b93385401d476efd.png",
+    "index.html": "/React-form/index.html",
+    "main.3816f81e.css.map": "/React-form/static/css/main.3816f81e.css.map",
+    "main.4adc7a4b.js.map": "/React-form/static/js/main.4adc7a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3816f81e.css",
+    "static/js/main.4adc7a4b.js"
+  ]
+}
